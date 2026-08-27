@@ -159,7 +159,7 @@ A security-focused computer vision project combining face recognition with anti-
 
 `Python` `OpenCV` `Computer Vision` `ML`
 
-🚧 **Currently Building**
+
 
 </td>
 
@@ -167,17 +167,7 @@ A security-focused computer vision project combining face recognition with anti-
 
 <tr>
 
-<td width="50%">
 
-### 👋 Virtual Keyboard
-
-A computer vision project that uses hand tracking and gestures to interact with a virtual keyboard.
-
-**Tech Stack**
-
-`Python` `OpenCV` `MediaPipe`
-
-</td>
 
 <td width="50%">
 
