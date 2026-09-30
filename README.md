@@ -259,13 +259,7 @@ A Python utility that generates secure random passwords using customizable passw
 
 ---
 
-# 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&title_color=C084FC&icon_color=7C3AED"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_color=7C3AED&title_color=C084FC"/>
 
 
 
